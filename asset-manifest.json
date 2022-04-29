@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Enthalapy-Calculator/static/css/main.77f1e179.css",
+    "main.js": "/Enthalapy-Calculator/static/js/main.f04498bc.js",
+    "index.html": "/Enthalapy-Calculator/index.html",
+    "main.77f1e179.css.map": "/Enthalapy-Calculator/static/css/main.77f1e179.css.map",
+    "main.f04498bc.js.map": "/Enthalapy-Calculator/static/js/main.f04498bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f1e179.css",
+    "static/js/main.f04498bc.js"
+  ]
+}
